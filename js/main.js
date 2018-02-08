@@ -1,3 +1,3 @@
 (() => {
-  console.log('fired');
+  console.log('firedddd');
 })();
